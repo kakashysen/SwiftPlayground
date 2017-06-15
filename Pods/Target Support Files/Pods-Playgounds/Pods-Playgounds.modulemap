@@ -1,0 +1,6 @@
+framework module Pods_Playgounds {
+  umbrella header "Pods-Playgounds-umbrella.h"
+
+  export *
+  module * { export * }
+}
